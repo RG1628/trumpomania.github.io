@@ -1,0 +1,45 @@
+.pearl_rss .pearl_rss_section p {
+    margin : 0;
+}
+.rss_pagination ul  {
+    padding : 0;
+    margin : 0;
+    text-align: center;
+}
+.rss_pagination li {
+    list-style: none;
+    display :inline-block;
+    width : 20px;
+    height : 20px;
+    cursor:pointer;
+}
+
+.rss_pagination ul::after 
+{
+    content: '';
+    clear : both;
+    display : block;
+    height : 0;
+}
+
+.pearl_min_height {
+    min-height: 460px;
+}
+.pearl_rss_left {
+ 
+  float: none;
+  padding : 2%;
+  
+}
+
+.pearl_rss_left img {
+    max-width: 100%;
+}
+
+.pearl-lightbox-popup.white-popup-block {
+    background-color: #fff;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2em;
+}
+

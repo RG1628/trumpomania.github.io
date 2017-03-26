@@ -1,0 +1,19 @@
+body,
+html {
+  font-family: 'Noto Sans', sans-serif;
+}
+header div.tempo-topper div.tempo-navigation-wrapper li,
+header div.tempo-topper div.tempo-navigation-wrapper a {
+  font-family: 'Noto Sans', sans-serif;
+}
+body .tempo-shortcode.gmap h3.zeon-marker-title {
+  font-family: 'Noto Sans', sans-serif;
+}
+blockquote,
+blockquote p {
+  font-family: 'Noto Sans', sans-serif;
+}
+aside div.widget h4.widget-title,
+aside div.widget h4.widget-title a {
+  font-family: 'Noto Sans', sans-serif;
+}

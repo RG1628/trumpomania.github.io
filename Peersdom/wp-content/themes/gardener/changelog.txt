@@ -1,0 +1,27 @@
+Version 0.0.6 ( March 23, 2017 )
+________________________________________
+
+- multiple responsive improvements
+- added small php improvements
+- fixed header tools item: Icon position
+
+Version 0.0.5 ( March 1, 2017 )
+________________________________________
+
+- Added Custom Color options ( Appearance > Customize > Colors )
+- Added Custom Headline Max Width options ( Appearance > Customize > Header Elements > Headline )
+- Fixed Show Categories on Single Post Header
+- Small css fix for content after menu ( special cases )
+- Header Tools Customizer fixes and Css fixes
+- added special class: gardener-highlight, space-extra-large, space-large, space, space-small, space-extra-small ( responsive ), content-wrapper-large, content-wrapper-small, content-wrapper-custom
+- small css improvements for ordered and unordered lists,
+- small css improvements for widget titles ( responsivity )
+
+Version 0.0.4 ( February 28, 2017 )
+________________________________________
+
+- gardener_user_contact() function and functionality - removed
+- using 'continue' outside of a loop - fixed. Research in others files. Found and fixed 3 matches.
+- ordered multiple placeholders ( use %1$1s instead of %s )
+- removed demo content like address, time and program from header.
+- escaping options in files: site-identity-after.php, append.php. The options used with tempo_option::get( '.....' ) are automatically escaped.
